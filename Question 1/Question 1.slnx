@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../Question 2/Question 2.csproj" />
   <Project Path="Question 1.csproj" />
 </Solution>
